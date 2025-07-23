@@ -1,4 +1,4 @@
-#Lab 5 Calleigh Tanaka
+#Lab 5 Melanie Murillo
 
 #Task 1: Cat Greeting Function
 
@@ -14,7 +14,7 @@ cat_greeting('meow')
 #Task 2: Superhero Power Function
 
 def generate_superhero_power():
-    name = "Calleigh"
+    name = "Melanie"
     power = "telekenisis"
     print(f"{name}'s power is {power}")
 
@@ -34,7 +34,7 @@ def generate_superhero_power2(user_name, super_power):
     message = user_name + " has the power of " + super_power + "!!"
     return message
 
-print(generate_superhero_power2("calleigh", "telekenisis"))
+print(generate_superhero_power2("Melanie", "telekenisis"))
 print(generate_superhero_power2("jannifer", "teleportation"))
 print(generate_superhero_power2("alicia", "invisibility"))
 print(generate_superhero_power2("manica", "super human strength"))
